@@ -1,10 +1,11 @@
-python阿达阿达ad
-asda sda
+这是一个python
+用来测试deque的
 
-ada python
-azifgs 
-zi dfpythondfsdf
-pythonfsd 
-dfsnfisfsof
-fznfjsdfs'df
-sdfdfoa,fpythonsfdhsdf
+所以应该怎么测试呢
+我需要写一段python的文字
+这一行没有
+这一行有python
+ 
+你看，这样就可以测试出来了
+最后一句pyhton
+
